@@ -1,0 +1,45 @@
+
+body {
+  background-color: #e6f2ff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #003366;
+}
+
+.nav {
+  background-color: #003366;
+  padding: 10px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.photo {
+  width: 400px;
+  border: 3px solid #003366;
+}
+
+.video {
+  padding: 20px;
+}
+
+.tableau {
+  padding: 20px;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+}
